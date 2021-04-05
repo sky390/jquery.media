@@ -2,7 +2,7 @@
 官方网站：https://jquery.malsup.com/media/
 
 ### Chinese
-jQuery Media 插件支持将标准标记转换为富媒体内容。它可以用来嵌入任何媒体类型，包括 Flash、Quicktime、Windows media Player、Real Player、MP3、Silverlight、PDF 等等。插件转换一个元素 (通常是`<a>`) 变成一个 `<div>` 它保存着 `object` ,`embed` 或 `iframe` 呈现媒体内容所必需的标记。
+jQuery Media 支持将标准标记转换为富媒体内容。它可以用来嵌入任何媒体类型，包括 Flash、Quicktime、Windows media Player、Real Player、MP3、Silverlight、PDF 等等。插件转换一个元素 (通常是`<a>`) 变成一个 `<div>` 它保存着 `object` ,`embed` 或 `iframe` 呈现媒体内容所必需的标记。
 
 #### 使用 Jquery.Media
 ```
